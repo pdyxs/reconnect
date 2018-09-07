@@ -2,7 +2,7 @@ import { compose } from "redux";
 import { connect } from "react-redux";
 import { branch, getContext, withContext, withHandlers, withProps } from 'recompose';
 import PropTypes from 'prop-types';
-import { withName } from 'react-redux-debug';
+import { withName } from 'reramble';
 
 export function getExistingContext() {
   return compose(

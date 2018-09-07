@@ -30,7 +30,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
-    "react-redux-debug": "git+https://github.com/pdyxs/react-redux-debug.git",
+    "reramble": "git+https://github.com/pdyxs/reramble.git",
     "recompose": "^0.30.0",
     "redux": "^4.0.0",
     "rimraf": "^2.5.4",
