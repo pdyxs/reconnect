@@ -1,6 +1,6 @@
 {
   "name": "@pdyxs/re-connect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React library for helping to connect things",
   "main": "dist/index.js",
   "license": "APACHE",
