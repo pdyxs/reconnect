@@ -30,9 +30,9 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-redux": "^5.0.7",
-    "reramble": "git+https://github.com/pdyxs/reramble.git",
     "recompose": "^0.30.0",
     "redux": "^4.0.0",
+    "reramble": "0.0.1",
     "rimraf": "^2.5.4",
     "webpack": "^2.2.0"
   },
