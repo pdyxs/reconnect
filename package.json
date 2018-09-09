@@ -1,5 +1,5 @@
 {
-  "name": "reconnect",
+  "name": "@pdyxs/re-connect",
   "version": "0.0.2",
   "description": "React library for helping to connect things",
   "main": "dist/index.js",
