@@ -3,6 +3,13 @@ import { connect } from "react-redux";
 import { branch, getContext, withContext, withHandlers, withProps } from 'recompose';
 import PropTypes from 'prop-types';
 import { withName } from 'reramble';
+import { withRouter } from 'react-router-dom';
+
+export function connectRouter() {
+  return checkIfPropsContains('match',
+    withRouter
+  );
+}
 
 export function getExistingContext() {
   return compose(
